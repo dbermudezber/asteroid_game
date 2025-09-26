@@ -1,10 +1,8 @@
 # Asteroid Game
 
-A classic video game of Asteroids using python. 
+A classic video game of Asteroids using Python. 
 
 # Description
-An in-depth paragraph about your project and overview of use.
-
 A remake of the classic Asteroids game in Python to demonstrate various skills in programming and game development. In this project, the player controls the spaceship to thrust forward, rotate, and shoot projectiles to break the drifting asteroids to avoid any collisions. Recreating this game helped create insight into game loops, vector mathematics for movement and rotation, modular code structure, handling user input, and the concept of multi-file projects, while using a real-world case for object-oriented programming. 
 
 
